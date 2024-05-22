@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @faisalsaleem
-- 👀 I’m interested in Nodejs, Asp.Net, Sql Server
-- 🌱 I’m currently learning Sql Server
+- 👋 Hi, I’m Faisal Saleem
+- 👀 I’m interested in Node.js, MongoDB, Asp.Net, Sql Server, MERN Stack, MEAN Stack
+- 🌱 I’m currently learning Vue.js
 - 💞️ I’m looking to collaborate on projects.
 - 📫 Reach me at fysalsaleem@gmail.com
 
